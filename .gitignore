@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -39,3 +40,46 @@ Thumbs.db
 
 # Kaggle
 kaggle.json
+=======
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Dataset
+plantdisease/
+plantdisease_split/
+*.zip
+
+# Model Outputs
+outputs/
+*.h5
+*.keras
+*.weights.h5
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+kaggle.json
+>>>>>>> 20ecb10f6bd371a01e16340b99bb66e4ba71d53e
