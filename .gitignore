@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Dataset
+plantdisease/
+plantdisease_split/
+*.zip
+
+# Model Outputs
+outputs/
+*.h5
+*.keras
+*.weights.h5
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+kaggle.json
