@@ -1,0 +1,22 @@
+# Deep Learning
+tensorflow>=2.12
+keras
+
+# Data handling
+numpy
+pandas
+scikit-learn
+
+# Computer Vision
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Dataset download
+opendatasets
+kaggle
+
+# Utilities
+pyyaml
