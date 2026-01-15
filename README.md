@@ -153,13 +153,16 @@ outputs/
 If you use this work, please cite:
 
 ```bibtex
-@article{plantdisease2025,
-  title={Plant Disease Detection with Background Bias Elimination: 
-         An EfficientNet-based Approach with Advanced Image Processing},
-  author={majedmolhi},
-  year={2026},
-  doi={10.5281/zenodo.XXXXXXX}
+@software{molhi_2026_18258119,
+  author       = {Majed Molhi},
+  title        = {plant-disease-background-bias: Initial Release},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {v1.0.0.0},
+  doi          = {10.5281/zenodo.18258119},
+  url          = {https://doi.org/10.5281/zenodo.18258119}
 }
+
 ```
 
 ---
@@ -174,7 +177,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 * **Dataset**: [PlantVillage on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
 * **Paper**: [Link to paper when published]
-* **DOI**: [Zenodo DOI](https://doi.org/10.5281/zenodo.XXXXXXX)
+* **DOI**: [Zenodo DOI](https://doi.org/10.5281/zenodo.18258119)
 
 ---
 
