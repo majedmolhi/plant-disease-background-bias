@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### 2. Run Pipeline
 
-**Option A: Jupyter Notebook **
+**Option A: Jupyter Notebook**
 ```bash
 jupyter notebook main.ipynb
 # Run all cells sequentially
